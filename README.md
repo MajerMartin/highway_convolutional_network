@@ -29,6 +29,7 @@ python main.py
 ## Notes
 * Training parameters are currently defined in *main.py*.
 * Model parameters are currently defined as keyword arguments only.
+* Stratified train/validation split is used to split original training data.
 
 ## TODO
 * Use argparse for training related and model parameters.
