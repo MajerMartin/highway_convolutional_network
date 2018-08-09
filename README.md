@@ -12,9 +12,9 @@ Implementation of simple highway convolutional network in PyTorch 0.4.0 (tested 
 1. Install [PyTorch](https://pytorch.org/).
 2. Install other dependencies.
 ```
-pip install numpy
-pip install matplotlib
-pip install scikit-learn
+pip install --upgrade numpy
+pip install --upgrade matplotlib
+pip install --upgrade scikit-learn
 ```
 3. Clone the repository.
 ```
