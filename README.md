@@ -18,7 +18,7 @@ pip install --upgrade scikit-learn
 ```
 3. Clone the repository.
 ```
-https://github.com/MajerMartin/highway_convolutional_network.git
+git clone https://github.com/MajerMartin/highway_convolutional_network.git
 cd highway_convolutional_network
 ```
 4. Run the main script.
